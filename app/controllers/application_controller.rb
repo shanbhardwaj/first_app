@@ -3,4 +3,5 @@ class ApplicationController < ActionController::Base
 
   # some methods that get included by all controllers
   # a new comment forfeature 
+  # a minor change to complete release v1.2
 end
